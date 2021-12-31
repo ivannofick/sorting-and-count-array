@@ -1,0 +1,14 @@
+Nama lengkap : 
+	ivannofick ad'ha nugraha
+email : 
+	ivannofick@gmail.com
+Apa yang Anda ketahui tentang ReactJS? : 
+	reactjs merupakan libary javascript untuk membangun sebuah tampilan pada website
+Apakah yang dimaksud dengan Asynchronous?
+	Asynchronous merupakan metode untuk menunanda API mengirimkan payload dari request
+Buatlah sebuah API service dari hasil Query tersebut. *
+	Sudah Mengerti(saya tidak memakai database, tapi saya memakai array)
+Hasil pop up yang di harapkan sebagai berikut (gambar hanya ilustrasi, posisi marker, jumlah pengguna & nama sesuai dari API) *
+	Sudah Mengerti(sepertinya salah)
+Link Jawaban
+	https://ruangapp.com/api/test/fullstack
